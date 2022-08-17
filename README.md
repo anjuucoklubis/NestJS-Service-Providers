@@ -6,6 +6,6 @@ Providers are a fundamental concept in Nest. Many of the basic Nest classes may 
 kamu dapat membaca dokumentasi prisma di https://www.prisma.io/
 - Pada source file 'daerah.service.ts' terdapat function CRUD dan findMany dan findFirst.
 - Anda dapat menggunakan source tersebut secara bebas.
-- Selamat belajar , semua pasti bisa
+- Selamat belajar , semua pasti bisa! Good luck
 
 ## Written by : Anju Lubis
